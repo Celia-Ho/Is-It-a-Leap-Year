@@ -31,7 +31,7 @@
       <h1>Is This a Leap Year?</h1>
       
       <p>
-        <?php date_default_timezone_set("America/New_York"); ?>
+        <?php date_default_timezone_set("America/Toronto"); ?>
 
         <?php
         function is_leap_year($year) {

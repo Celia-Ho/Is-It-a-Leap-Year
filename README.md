@@ -13,4 +13,4 @@ Check it out in live action [here]().
 
 ## Tools/languages used:  
 
-PHP, JavaScript, CSS, HTML, Git, Heroku
+PHP, CSS, HTML, Git, Heroku
